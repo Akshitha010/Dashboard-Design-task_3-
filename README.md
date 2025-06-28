@@ -69,12 +69,6 @@ This Power BI project presents an interactive and business-focused dashboard bui
 
 ---
 
-## 📷 Dashboard Preview
-
-> _Include a screenshot here if using GitHub or a documentation page._
-
----
-
 ## 📁 Files Included
 
 - `Sample - Superstore.pbix` – Power BI Dashboard File.
